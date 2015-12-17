@@ -1,0 +1,2003 @@
+fileFormatVersion: 2
+guid: c3e92f1b5cdafaf42a637725f3064945
+timeCreated: 1450336291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ReimuHakurei2_0
+    21300002: ReimuHakurei2_1
+    21300004: ReimuHakurei2_2
+    21300006: ReimuHakurei2_3
+    21300008: ReimuHakurei2_4
+    21300010: ReimuHakurei2_5
+    21300012: ReimuHakurei2_6
+    21300014: ReimuHakurei2_7
+    21300016: ReimuHakurei2_8
+    21300018: ReimuHakurei2_9
+    21300020: ReimuHakurei2_10
+    21300022: ReimuHakurei2_11
+    21300024: ReimuHakurei2_12
+    21300026: ReimuHakurei2_13
+    21300028: ReimuHakurei2_14
+    21300030: ReimuHakurei2_15
+    21300032: ReimuHakurei2_16
+    21300034: ReimuHakurei2_17
+    21300036: ReimuHakurei2_18
+    21300038: ReimuHakurei2_19
+    21300040: ReimuHakurei2_20
+    21300042: ReimuHakurei2_21
+    21300044: ReimuHakurei2_22
+    21300046: ReimuHakurei2_23
+    21300048: ReimuHakurei2_24
+    21300050: ReimuHakurei2_25
+    21300052: ReimuHakurei2_26
+    21300054: ReimuHakurei2_27
+    21300056: ReimuHakurei2_28
+    21300058: ReimuHakurei2_29
+    21300060: ReimuHakurei2_30
+    21300062: ReimuHakurei2_31
+    21300064: ReimuHakurei2_32
+    21300066: ReimuHakurei2_33
+    21300068: ReimuHakurei2_34
+    21300070: ReimuHakurei2_35
+    21300072: ReimuHakurei2_36
+    21300074: ReimuHakurei2_37
+    21300076: ReimuHakurei2_38
+    21300078: ReimuHakurei2_39
+    21300080: ReimuHakurei2_40
+    21300082: ReimuHakurei2_41
+    21300084: ReimuHakurei2_42
+    21300086: ReimuHakurei2_43
+    21300088: ReimuHakurei2_44
+    21300090: ReimuHakurei2_45
+    21300092: ReimuHakurei2_46
+    21300094: ReimuHakurei2_47
+    21300096: ReimuHakurei2_48
+    21300098: ReimuHakurei2_49
+    21300100: ReimuHakurei2_50
+    21300102: ReimuHakurei2_51
+    21300104: ReimuHakurei2_52
+    21300106: ReimuHakurei2_53
+    21300108: ReimuHakurei2_54
+    21300110: ReimuHakurei2_55
+    21300112: ReimuHakurei2_56
+    21300114: ReimuHakurei2_57
+    21300116: ReimuHakurei2_58
+    21300118: ReimuHakurei2_59
+    21300120: ReimuHakurei2_60
+    21300122: ReimuHakurei2_61
+    21300124: ReimuHakurei2_62
+    21300126: ReimuHakurei2_63
+    21300128: ReimuHakurei2_64
+    21300130: ReimuHakurei2_65
+    21300132: ReimuHakurei2_66
+    21300134: ReimuHakurei2_67
+    21300136: ReimuHakurei2_68
+    21300138: ReimuHakurei2_69
+    21300140: ReimuHakurei2_70
+    21300142: ReimuHakurei2_71
+    21300144: ReimuHakurei2_72
+    21300146: ReimuHakurei2_73
+    21300148: ReimuHakurei2_74
+    21300150: ReimuHakurei2_75
+    21300152: ReimuHakurei2_76
+    21300154: ReimuHakurei2_77
+    21300156: ReimuHakurei2_78
+    21300158: ReimuHakurei2_79
+    21300160: ReimuHakurei2_80
+    21300162: ReimuHakurei2_81
+    21300164: ReimuHakurei2_82
+    21300166: ReimuHakurei2_83
+    21300168: ReimuHakurei2_84
+    21300170: ReimuHakurei2_85
+    21300172: ReimuHakurei2_86
+    21300174: ReimuHakurei2_87
+    21300176: ReimuHakurei2_88
+    21300178: ReimuHakurei2_89
+    21300180: ReimuHakurei2_90
+    21300182: ReimuHakurei2_91
+    21300184: ReimuHakurei2_92
+    21300186: ReimuHakurei2_93
+    21300188: ReimuHakurei2_94
+    21300190: ReimuHakurei2_95
+    21300192: ReimuHakurei2_96
+    21300194: ReimuHakurei2_97
+    21300196: ReimuHakurei2_98
+    21300198: ReimuHakurei2_99
+    21300200: ReimuHakurei2_100
+    21300202: ReimuHakurei2_101
+    21300204: ReimuHakurei2_102
+    21300206: ReimuHakurei2_103
+    21300208: ReimuHakurei2_104
+    21300210: ReimuHakurei2_105
+    21300212: ReimuHakurei2_106
+    21300214: ReimuHakurei2_107
+    21300216: ReimuHakurei2_108
+    21300218: ReimuHakurei2_109
+    21300220: ReimuHakurei2_110
+    21300222: ReimuHakurei2_111
+    21300224: ReimuHakurei2_112
+    21300226: ReimuHakurei2_113
+    21300228: ReimuHakurei2_114
+    21300230: ReimuHakurei2_115
+    21300232: ReimuHakurei2_116
+    21300234: ReimuHakurei2_117
+    21300236: ReimuHakurei2_118
+    21300238: ReimuHakurei2_119
+    21300240: ReimuHakurei2_120
+    21300242: ReimuHakurei2_121
+    21300244: ReimuHakurei2_122
+    21300246: ReimuHakurei2_123
+    21300248: ReimuHakurei2_124
+    21300250: ReimuHakurei2_125
+    21300252: ReimuHakurei2_126
+    21300254: ReimuHakurei2_127
+    21300256: ReimuHakurei2_128
+    21300258: ReimuHakurei2_129
+    21300260: ReimuHakurei2_130
+    21300262: ReimuHakurei2_131
+    21300264: ReimuHakurei2_132
+    21300266: ReimuHakurei2_133
+    21300268: ReimuHakurei2_134
+    21300270: ReimuHakurei2_135
+    21300272: ReimuHakurei2_136
+    21300274: ReimuHakurei2_137
+    21300276: ReimuHakurei2_138
+    21300278: ReimuHakurei2_139
+    21300280: ReimuHakurei2_140
+    21300282: ReimuHakurei2_141
+    21300284: ReimuHakurei2_142
+    21300286: ReimuHakurei2_143
+    21300288: ReimuHakurei2_144
+    21300290: ReimuHakurei2_145
+    21300292: ReimuHakurei2_146
+    21300294: ReimuHakurei2_147
+    21300296: ReimuHakurei2_148
+    21300298: ReimuHakurei2_149
+    21300300: ReimuHakurei2_150
+    21300302: ReimuHakurei2_151
+    21300304: ReimuHakurei2_152
+    21300306: ReimuHakurei2_153
+    21300308: ReimuHakurei2_154
+    21300310: ReimuHakurei2_155
+    21300312: ReimuHakurei2_156
+    21300314: ReimuHakurei2_157
+    21300316: ReimuHakurei2_158
+    21300318: ReimuHakurei2_159
+    21300320: ReimuHakurei2_160
+    21300322: ReimuHakurei2_161
+    21300324: ReimuHakurei2_162
+    21300326: ReimuHakurei2_163
+    21300328: ReimuHakurei2_164
+    21300330: ReimuHakurei2_165
+    21300332: ReimuHakurei2_166
+    21300334: ReimuHakurei2_167
+    21300336: ReimuHakurei2_168
+    21300338: ReimuHakurei2_169
+    21300340: ReimuHakurei2_170
+    21300342: ReimuHakurei2_171
+    21300344: ReimuHakurei2_172
+    21300346: ReimuHakurei2_173
+    21300348: ReimuHakurei2_174
+    21300350: ReimuHakurei2_175
+    21300352: ReimuHakurei2_176
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ReimuHakurei2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1985
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1985
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1985
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1985
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1985
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1985
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1985
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1921
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1921
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1921
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1921
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1921
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1921
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1857
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1857
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1857
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1857
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1857
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1857
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1793
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1793
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1793
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1793
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1793
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1793
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1793
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1793
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1729
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1729
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1729
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1729
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1729
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1729
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1729
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1665
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1665
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1665
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1666
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1665
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1665
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1665
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_47
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1665
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1601
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1601
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1601
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1601
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1601
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1601
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_55
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1601
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1537
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1538
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1538
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1538
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1539
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1541
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_62
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_63
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1552
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1473
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1476
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1479
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1480
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1480
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_69
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1481
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_70
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1483
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_71
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1488
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1413
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1409
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1409
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1409
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1409
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1345
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1345
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1345
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1345
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1281
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1281
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_83
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1281
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1281
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1217
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_87
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1217
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_89
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1153
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1153
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1153
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1093
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1093
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1093
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1093
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1029
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_97
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1029
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_98
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1029
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1029
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 965
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_101
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 965
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 965
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_103
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 965
+        width: 113
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 901
+        width: 113
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_105
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 904
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 906
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 833
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 833
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_109
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 833
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_110
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 833
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_112
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 769
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_113
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 769
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 769
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 705
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 705
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 705
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_118
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 705
+        width: 110
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 641
+        width: 110
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_121
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 577
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_125
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 577
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_126
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 577
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 522
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 523
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_129
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 525
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_130
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 525
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_131
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 526
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 527
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_133
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 522
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_134
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 522
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 458
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_136
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 458
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_137
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 457
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_138
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 457
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 454
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_140
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 452
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 453
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_142
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 451
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_143
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 388
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_144
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 388
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 388
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_146
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 388
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 327
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_148
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 327
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_149
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 327
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_150
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 327
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_151
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_152
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_154
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 257
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_155
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 257
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_156
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 257
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_157
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 257
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_158
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 257
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 198
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 204
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 209
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_163
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 200
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_164
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 205
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_165
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 209
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_166
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 208
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_167
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 135
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_168
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 135
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_169
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_170
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_172
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_173
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 129
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_175
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ReimuHakurei2_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

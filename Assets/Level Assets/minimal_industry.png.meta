@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 37792517a07c29a4882f55f6a54c95c3
-timeCreated: 1450419596
+timeCreated: 1450421764
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -9,7 +9,12 @@ TextureImporter:
     21300004: L_platform_leg
     21300006: R_platform_leg
     21300008: rails
-    21300010: pillar
+    21300010: vert_scaffold
+    21300012: leftStair
+    21300014: rightStair
+    21300016: horiz_scaffold
+    21300018: tank
+    21300020: box
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -106,13 +111,63 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: pillar
+    - name: vert_scaffold
       rect:
         serializedVersion: 2
         x: 48
         y: 256
         width: 16
         height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftStair
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rightStair
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horiz_scaffold
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tank
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

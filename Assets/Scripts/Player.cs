@@ -41,8 +41,7 @@ public class Player : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Space) && controller.collisions.below)
         {
             velocity.y = jumpVelocity;
-        }
-        
+        }        
 
         velocity.x = input.x * moveSpeed;
         //velocity.x = Mathf.SmoothDamp(velocity.x, targetVelocityX, ref velocityXSmoothing, (controller.collisions.below) ? accelerationTimeGrounded : accelerationTimeAirborne);
@@ -56,12 +55,21 @@ public class Player : MonoBehaviour {
 
         print("X: " + velocity.x + "  Y: " + velocity.y + " Moving? " + animator.GetBool("playerMoving"));
 
+
         if (velocity.x > 0 || velocity.x < 0 &&
+            velocity.y <= 0 &&
             controller.collisions.below)
         {
-            animator.SetBool("playerMoving", true);
-            animator.SetBool("playerStopRunning", false);
-            animator.SetBool("playerStartRunning", true);
+            if (Input.GetKeyDown(KeyCode.S) && controller.collisions.below)
+            {
+                animator.SetBool("playerSlide", true);
+            }
+            else
+            {
+                animator.SetBool("playerMoving", true);
+                animator.SetBool("playerStopRunning", false);
+                animator.SetBool("playerStartRunning", true);
+            }
         }
         else if (velocity.x == 0 &&
             controller.collisions.below)

@@ -4,22 +4,48 @@ using System;
 
 //[RequireComponent (typeof (Controller2D))]
 public class Player : MonoBehaviour {
-
-    float moveSpeed = 6;
+    
     public Controller2D controller;
-    float gravity = -20;
+    public float jumpHeight = 0.5f;
+    public float timeToJumpApex = 3f;
+    float accelerationTimeAirborne = 0.2f;
+    float accelerationTimeGrounded = 0.1f;
+    float moveSpeed = 6;
+
+    float gravity;
+    float jumpVelocity;
+    float velocityXSmoothing;
     Vector3 velocity;
     private bool faceRight = true;
     public Animator animator;
 
-    void start()
+    void Awake()
     {
+        gravity = -(2 * jumpHeight) / Mathf.Pow(timeToJumpApex, 2);
+        jumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
+        //print("Gravity: " + gravity + "  Jump Velocity: " + jumpVelocity);
     }
 
     void Update()
     {
+        if (controller.collisions.above || controller.collisions.below)
+        {
+            velocity.y = 0;
+            animator.SetBool("playerIdleJump", false);
+            animator.SetBool("playerFowardJump", false);
+            animator.SetBool("playerMoving", false);
+        }
+
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+
+        if (Input.GetKeyDown(KeyCode.Space) && controller.collisions.below)
+        {
+            velocity.y = jumpVelocity;
+        }
+        
+
         velocity.x = input.x * moveSpeed;
+        //velocity.x = Mathf.SmoothDamp(velocity.x, targetVelocityX, ref velocityXSmoothing, (controller.collisions.below) ? accelerationTimeGrounded : accelerationTimeAirborne);
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
     }
@@ -28,13 +54,17 @@ public class Player : MonoBehaviour {
     {
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
 
-        if (velocity.x > 0 || velocity.x < 0)
+        print("X: " + velocity.x + "  Y: " + velocity.y + " Moving? " + animator.GetBool("playerMoving"));
+
+        if (velocity.x > 0 || velocity.x < 0 &&
+            controller.collisions.below)
         {
             animator.SetBool("playerMoving", true);
             animator.SetBool("playerStopRunning", false);
             animator.SetBool("playerStartRunning", true);
         }
-        else if (velocity.x == 0)
+        else if (velocity.x == 0 &&
+            controller.collisions.below)
         {
             if (input.x == 0)
             {
@@ -44,6 +74,24 @@ public class Player : MonoBehaviour {
             }
         }
 
+        if (velocity.y > 0 &&
+            !animator.GetBool("playerMoving") && 
+            !controller.collisions.below)
+        {
+            animator.SetBool("playerIdleJump", true);
+        }
+        else if (velocity.y > 0 &&
+            animator.GetBool("playerMoving") &&
+            !controller.collisions.below)
+        {
+            animator.SetBool("playerFowardJump", true);
+        }
+        else
+        {
+            animator.SetBool("playerIdleJump", false);
+            animator.SetBool("playerFowardJump", false);
+        }
+        
         if (velocity.x > 0 && !faceRight)
         {
             Flip();
@@ -61,55 +109,4 @@ public class Player : MonoBehaviour {
         scale.x *= -1;
         transform.localScale = scale;
     }
-
-
- //   public float restartLevelDelay = 1f;
- //   public float speed;
- //   public float jump;
- //   private float moveVelocity;
- //   bool grounded = true;
- //   private Animator animator;
-
-	//// Use this for initialization
-	//protected override void Start ()
- //   {
- //       animator = GetComponent<Animator>();
-
- //       base.Start();    
-	//}
-
- //   private void OnDisable()
- //   {
-
- //   }
-
- //   private void CheckIfGameOver()
- //   {
-
- //   }
-
- //   protected override void AttemptMove<T>(int xDir, int yDir)
- //   {
- //       base.AttemptMove<T>(xDir, yDir);
- //       RaycastHit2D hit;
- //       CheckIfGameOver();
- //   }
-
- //   protected override void OnCantMove<T>(T component)
- //   {
-
- //   }
-
- //   // Update is called once per frame
- //   void Update ()
- //   {
- //       int horizontal = 0;
- //       int vertical = 0;
-
- //       horizontal = (int)Input.GetAxisRaw("Horizontal");
- //       vertical = (int)Input.GetAxisRaw("Vertical");
-
- //       //if (horizontal != 0 || vertical != 0)
- //       //    AttemptMove<Wall>(horizontal, vertical);
-	//}
 }

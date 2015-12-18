@@ -19,11 +19,27 @@ public class Player : MonoBehaviour {
     private bool faceRight = true;
     public Animator animator;
 
+    // audio variables
+    private AudioSource[] audioSources;
+    private AudioSource jumpSound;
+    private AudioSource playerHitSound;
+    private AudioSource playerDeadSound;
+    private AudioSource slideSound;
+    private AudioSource playerAttackSound;
+
     void Awake()
     {
         gravity = -(2 * jumpHeight) / Mathf.Pow(timeToJumpApex, 2);
         jumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
         //print("Gravity: " + gravity + "  Jump Velocity: " + jumpVelocity);
+
+        // get audio sources and assign them
+        audioSources = GetComponents<AudioSource>();
+        jumpSound = audioSources[0];
+        playerHitSound = audioSources[1];
+        playerDeadSound = audioSources[2];
+        slideSound = audioSources[3];
+        playerAttackSound = audioSources[4];
     }
 
     void Update()
@@ -40,6 +56,7 @@ public class Player : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.Space) && controller.collisions.below)
         {
+            playSound(jumpSound);
             velocity.y = jumpVelocity;
         }        
 
@@ -116,5 +133,10 @@ public class Player : MonoBehaviour {
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
+    }
+
+    void playSound(AudioSource sound)
+    {
+        sound.Play();
     }
 }
